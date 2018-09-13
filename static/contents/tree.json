@@ -1,0 +1,1125 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "label": "目录",
+      "children": [
+        {
+          "id": 1,
+          "label": "前言"
+        },
+        {
+          "id": 2, 
+          "label": "游戏介绍",
+          "children": [
+            {
+              "label": "游戏介绍"
+            },
+            {
+              "label": "游戏操作"
+            },
+            {
+              "label": "游戏界面解析"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "label": "入门玩法和系统教程",
+          "children": [
+            {
+              "label": "角色的创建"
+            },
+            {
+              "label": "系统教程"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "label": "种族篇",
+          "children": [
+            {
+              "id": 5,
+              "label": "传统种族",
+              "children": [
+                {
+                  "label": "人类"
+                },
+                {
+                  "label": "矮人"
+                },
+                {
+                  "label": "精灵"
+                },
+                {
+                  "label": "蜥蜴"
+                },
+                {
+                  "label": "不死族"
+                }
+              ]
+            },
+            {
+              "label": "起源者",
+              "children": [
+                {
+                  "label": "塞碧莉"
+                },
+                {
+                  "label": "洛许"
+                },
+                {
+                  "label": "腥红王子"
+                },
+                {
+                  "label": "野兽"
+                },
+                {
+                  "label": "伊凡·本美兹"
+                },
+                {
+                  "label": "费恩"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "职业篇",
+          "children": [
+            {
+              "label": "简介"
+            },
+            {
+              "label": "战士"
+            },
+            {
+              "label": "战法师"
+            },
+            {
+              "label": "审判者"
+            },
+            {
+              "label": "骑士"
+            },
+            {
+              "label": "变形者"
+            },
+            {
+              "label": "附魔师"
+            },
+            {
+              "label": "流氓"
+            },
+            {
+              "label": "影刃"
+            },
+            {
+              "label": "游侠"
+            },
+            {
+              "label": "旅人"
+            },
+            {
+              "label": "魔术师"
+            },
+            {
+              "label": "牧师"
+            },
+            {
+              "label": "女巫"
+            },
+            {
+              "label": "巫师"
+            }
+          ]
+        },
+        {
+          "label": "标签篇",
+          "children": [
+            {
+              "label": "标签"
+            }
+          ]
+        },
+        {
+          "label": "属性篇",
+          "children": [
+            {
+              "label": "基础属性"
+            },
+            {
+              "label": "伤害与防御属性"
+            },
+            {
+              "label": "战斗地形的影响"
+            },
+            {
+              "label": "战斗要素与元素抵抗"
+            },
+            {
+              "label": "战斗中的环境影响"
+            }
+          ]
+        },
+        {
+          "label": "能力篇",
+          "children": [
+            {
+              "label": "民事能力",
+              "children": [
+                {
+                  "label": "民事能力"
+                }
+              ]
+            },
+            {
+              "label": "战斗能力",
+              "children": [
+                {
+                  "label": "战斗能力"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "技能篇",
+          "children": [
+            {
+              "label": "元素学派",
+              "children": [
+                {
+                  "label": "气元素"
+                },
+                {
+                  "label": "火元素"
+                },
+                {
+                  "label": "水元素"
+                },
+                {
+                  "label": "土元素"
+                }
+              ]
+            },
+            {
+              "label": "武功学派",
+              "children": [
+                {
+                  "label": "战争"
+                },
+                {
+                  "label": "变形"
+                },
+                {
+                  "label": "恶棍"
+                },
+                {
+                  "label": "猎人"
+                },
+                {
+                  "label": "死灵"
+                },
+                {
+                  "label": "召唤"
+                }
+              ]
+            },
+            {
+              "label": "特殊技能",
+              "children": [
+                {
+                  "label": "种族特殊技能与武器技能"
+                },
+                {
+                  "label": "施法类"
+                },
+                {
+                  "label": "特殊物品技能"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "天赋篇",
+          "children": [
+            {
+              "label": "天赋"
+            }
+          ]
+        },
+        {
+          "label": "合成篇",
+          "children": [
+            {
+              "label": "材料和工具",
+              "children": [
+                {
+                  "label": "材料"
+                },
+                {
+                  "label": "工具"
+                }
+              ]
+            },
+            {
+              "label": "符文",
+              "children": [
+                {
+                  "label": "基础符文合成"
+                },
+                {
+                  "label": "框架符文"
+                },
+                {
+                  "label": "终极框架符文"
+                }
+              ]
+            },
+            {
+              "label": "附魔",
+              "children": [
+                {
+                  "label": "附魔篇"
+                }
+              ]
+            },
+            {
+              "label": "技能书",
+              "children": [
+                {
+                  "label": "混合型技能书"
+                },
+                {
+                  "label": "技能书"
+                }
+              ]
+            },
+            {
+              "label": "箭矢和手雷",
+              "children": [
+                {
+                  "label": "箭矢"
+                },
+                {
+                  "label": "手雷"
+                }
+              ]
+            },
+            {
+              "label": "卷轴",
+              "children": [
+                {
+                  "label": "卷轴"
+                }
+              ]
+            },
+            {
+              "label": "食物",
+              "children": [
+                {
+                  "label": "食物"
+                }
+              ]
+            },
+            {
+              "label": "武器和护甲",
+              "children": [
+                {
+                  "label": "护甲"
+                },
+                {
+                  "label": "武器"
+                }
+              ]
+            },
+            {
+              "label": "药剂",
+              "children": [
+                {
+                  "label": "草药"
+                },
+                {
+                  "label": "生命恢复药剂"
+                },
+                {
+                  "label": "元素抵抗药剂"
+                },
+                {
+                  "label": "护甲增强型药剂"
+                },
+                {
+                  "label": "属性增强药剂"
+                },
+                {
+                  "label": "功能型药剂"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "全主线支线任务",
+          "children": [
+            {
+              "label": "前言：风平浪静号",
+              "children": [
+                {
+                  "label": "章节简介"
+                },
+                {
+                  "label": "主线：混乱的水域（Troubled Waters）"
+                }
+              ]
+            },
+            {
+              "label": "第一章：欢乐堡",
+              "children": [
+                {
+                  "label": "逃离欢乐堡要塞",
+                  "children": [
+                    {
+                      "label": "章节简介"
+                    },
+                    {
+                      "label": "章节探索：结识同伴，进入欢乐堡"
+                    },
+                    {
+                      "label": "主线：大逃亡（The Escape）.上篇"
+                    },
+                    {
+                      "label": "支线：抵抗迹象（Signs of Resistance）"
+                    },
+                    {
+                      "label": "支线：蹊跷的谋杀（The Murderous Gheist）"
+                    },
+                    {
+                      "label": "支线：彻底搜查（The Shakedowns）"
+                    },
+                    {
+                      "label": "支线：每个母亲的噩梦（Every Mother's Nightmare）"
+                    },
+                    {
+                      "label": "支线：传送装置（The Teleporter）"
+                    },
+                    {
+                      "label": "支线：被困的精灵（The Imprisoned Elf）"
+                    },
+                    {
+                      "label": "支线：欢乐堡竞技场（The Arena of FortJoy）"
+                    },
+                    {
+                      "label": "支线：项圈（The Collar）"
+                    },
+                    {
+                      "label": "支线：维泽磨的灵柩罐（Withermoor's SoulJar）"
+                    },
+                    {
+                      "label": "支线：找到埃米（Finding Emmie）"
+                    },
+                    {
+                      "label": "支线：暴君套装（Artefacts of Tyrant）.上篇"
+                    },
+                    {
+                      "label": "支线：只是孩子们的小把戏（Nothing But The Child's Play）"
+                    },
+                    {
+                      "label": "支线：召唤猫伙伴（Summoning the Cat Familiar）"
+                    }
+                  ]
+                },
+                {
+                  "label": "逃离陆地，登陆复仇女神号",
+                  "children": [
+                    {
+                      "label": "章节简介"
+                    },
+                    {
+                      "label": "章节探索"
+                    },
+                    {
+                      "label": "主线：大逃亡（The Escape）.下篇"
+                    },
+                    {
+                      "label": "主线：嚎叫者（The Shriekers）"
+                    },
+                    {
+                      "label": "支线：转角遇到危险（Most Dangerous When                            Cornered）"
+                    },
+                    {
+                      "label": "支线：军械库（The Armoury）"
+                    },
+                    {
+                      "label": "支线：暴君套装（Artifacts of The Tyrant）.下篇"
+                    },
+                    {
+                      "label": "支线：燃烧的猪（The Burning Pigs）"
+                    },
+                    {
+                      "label": "支线：内心的声音（The Inner Voice）"
+                    },
+                    {
+                      "label": "支线：布拉克斯·雷克斯藏宝室（The Vault of                            Braccus Rex）"
+                    },
+                    {
+                      "label": "支线：被净化的龙人（The Purged Dragon）"
+                    },
+                    {
+                      "label": "支线：神龙迷宫（The Gargoyle's Maze）"
+                    },
+                    {
+                      "label": "支线：比死亡还要糟糕的命运（A Fate Worse                            Than Death）"
+                    },
+                    {
+                      "label": "支线：治疗之触（The Healing Touch）"
+                    },
+                    {
+                      "label": "支线：永恒的崇拜者（The Eternal Worshipper）"
+                    },
+                    {
+                      "label": "支线：战斗的召唤（Call To Arms）"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "间场：复仇女神号",
+              "children": [
+                {
+                  "label": "章节简介"
+                },
+                {
+                  "label": "章节探索"
+                },
+                {
+                  "label": "主线：复仇女士号（The Lady Vengeance）"
+                },
+                {
+                  "label": "主线：“女士”大战（The Lady o' War）"
+                },
+                {
+                  "label": "主线：拜访回音大厅（To the Hall of Echoes）"
+                }
+              ]
+            },
+            {
+              "label": "第二章：死神海岸",
+              "children": [
+                {
+                  "label": "死神海岸的浮木城",
+                  "children": [
+                    {
+                      "label": "章节简介 浮木城"
+                    },
+                    {
+                      "label": "章节探索 浮木城"
+                    },
+                    {
+                      "label": "章节探索 失事洞穴"
+                    },
+                    {
+                      "label": "主线：源力觉醒（Powerful Awaking）.上篇"
+                    },
+                    {
+                      "label": "主线：源力觉醒（Powerful Awaking）.下篇"
+                    },
+                    {
+                      "label": "支线：失事的大篷车（The Wrecked Caravan）"
+                    },
+                    {
+                      "label": "支线：此路不通（They Shall Not Pass）"
+                    },
+                    {
+                      "label": "支线：数小鸡（Counting Your Chickens）"
+                    },
+                    {
+                      "label": "支线：教会的法律（The Law of the Order）"
+                    },
+                    {
+                      "label": "支线：乞丐和狗（A Man and His Dog）"
+                    },
+                    {
+                      "label": "支线：学者格莱布（Grebb The Scholar）"
+                    },
+                    {
+                      "label": "支线：奇怪的货物（Strange Cargo）"
+                    },
+                    {
+                      "label": "支线：捉迷藏（Hide and Seek）"
+                    },
+                    {
+                      "label": "支线：账本上的红墨迹（The Red Ink in the Ledger）"
+                    },
+                    {
+                      "label": "支线：暴力接管（Aggressive Takeover）"
+                    },
+                    {
+                      "label": "支线：失物招领（Lost And Found）"
+                    },
+                    {
+                      "label": "支线：失踪的魔导师（The Missing Magister）"
+                    },
+                    {
+                      "label": "支线：一网欲望（A Web of Desire）"
+                    },
+                    {
+                      "label": "支线：浮木城竞技场（The Driftwood Arena）"
+                    },
+                    {
+                      "label": "支线：浮木阴影（Shadow over Driftwood）"
+                    },
+                    {
+                      "label": "支线：自由的味道（A Taste of Freedom）"
+                    },
+                    {
+                      "label": "支线：瞌睡的冒险家（The Snoozing Adventurer）"
+                    },
+                    {
+                      "label": "支线：淹没的悲痛（Drowing Her Sorrow）"
+                    },
+                    {
+                      "label": "支线：猫咪的宝藏（The Cat's Treasure）"
+                    },
+                    {
+                      "label": "支线：爱要付出代价（Love Has A Price）"
+                    },
+                    {
+                      "label": "支线：燃烧的先知（The Burning Prophet）"
+                    },
+                    {
+                      "label": "支线：神灯与愿望（Wishful Thinking）"
+                    }
+                  ]
+                },
+                {
+                  "label": "浮木城周边区域",
+                  "children": [
+                    {
+                      "label": "章节简介 浮木城外"
+                    },
+                    {
+                      "label": "支线：商人恩雅（Eithne the Trader）"
+                    },
+                    {
+                      "label": "支线：像对待牲口一样（Treated Like Cattle）"
+                    },
+                    {
+                      "label": "支线：商业对手（Business Rivals）"
+                    },
+                    {
+                      "label": "支线：丑小鸟（The Ugly Little Bird）"
+                    },
+                    {
+                      "label": "支线：机会之窗（Window of Opportunity）"
+                    },
+                    {
+                      "label": "支线：三座祭坛（The Three Altars）"
+                    },
+                    {
+                      "label": "支线：对她和对其他人都是危险的（A Danger to Her and Others）"
+                    },
+                    {
+                      "label": "支线：埋葬过去（Burying The Past）"
+                    },
+                    {
+                      "label": "支线：无休止的稻草人（The Restless Scarecrow）"
+                    }
+                  ]
+                },
+                {
+                  "label": "石墓花园与黑坑洞",
+                  "children": [
+                    {
+                      "label": "章节简介"
+                    },
+                    {
+                      "label": "章节探索 石墓花园"
+                    },
+                    {
+                      "label": "支线：不情愿的仆人（The Reluctant Servants）"
+                    },
+                    {
+                      "label": "支线：家族宝藏（All in the Family）"
+                    },
+                    {
+                      "label": "支线：召唤秃鹰（Summon Condor）"
+                    },
+                    {
+                      "label": "支线：堕落的精灵后裔（The Fallen Elven Heir）"
+                    },
+                    {
+                      "label": "支线：高价猎杀（A Prize Kill）"
+                    },
+                    {
+                      "label": "支线：午夜挖掘（Midnight Oil）"
+                    },
+                    {
+                      "label": "支线：慷慨的出价（A Generous Offer）"
+                    },
+                    {
+                      "label": "支线：异性相吸（Opposite Attract）"
+                    },
+                    {
+                      "label": "支线：来自异乡的异人（Stranger in a Strange Land）"
+                    },
+                    {
+                      "label": "支线：生存危机（An Existential Crisis）"
+                    },
+                    {
+                      "label": "支线：用交叉舌谈话（Speaking in Forked Tongues）"
+                    },
+                    {
+                      "label": "支线：英雄安息（Heroes’ Rest）"
+                    },
+                    {
+                      "label": "支线：受宠竞赛（Popularity Contest）"
+                    },
+                    {
+                      "label": "支线：损坏的雕像（The Broken Statue）"
+                    },
+                    {
+                      "label": "章节探索 黑坑洞"
+                    },
+                    {
+                      "label": "支线：无路可逃（No Way Out）"
+                    },
+                    {
+                      "label": "支线：黑坑洞的黑暗交易（Dark Dealings in the Blackpit）"
+                    },
+                    {
+                      "label": "支线：阿尔米亚的请求（Almira's Request）"
+                    },
+                    {
+                      "label": "支线：在绞刑绳上（On the Ropes）"
+                    },
+                    {
+                      "label": "支线：不可能的恋人（Unlikely Lovers）"
+                    },
+                    {
+                      "label": "支线：织网者（The Weaver）"
+                    }
+                  ]
+                },
+                {
+                  "label": "锯木厂与血月岛",
+                  "children": [
+                    {
+                      "label": "章节简介"
+                    },
+                    {
+                      "label": "章节探索 锯木厂"
+                    },
+                    {
+                      "label": "支线：四季的试炼（A Trial for All Seasons）"
+                    },
+                    {
+                      "label": "支线：精灵先知（The Elven Seer）"
+                    },
+                    {
+                      "label": "支线：埋葬仪式（Burial Rites）"
+                    },
+                    {
+                      "label": "支线：无情的灵魂（The Stoic Spirite）"
+                    },
+                    {
+                      "label": "支线：不是开玩笑的事情（No Laughing Matter）"
+                    },
+                    {
+                      "label": "支线：中间的酬金（Finder's Fee）"
+                    },
+                    {
+                      "label": "支线：以眼还眼（An Eye for an Eye）"
+                    },
+                    {
+                      "label": "支线：旧情如烟（The Old Flame）"
+                    },
+                    {
+                      "label": "支线：原木的复仇（The Bark's Bite）"
+                    },
+                    {
+                      "label": "支线：痛苦的解药（Bitter Tonic）"
+                    },
+                    {
+                      "label": "支线：强征入伍（Press-Ganged）"
+                    },
+                    {
+                      "label": "章节探索 血月岛"
+                    },
+                    {
+                      "label": "支线：邪恶之物的猎人（A Hunter of Wicked Thing）"
+                    },
+                    {
+                      "label": "支线：提倡者（The Advocate）"
+                    },
+                    {
+                      "label": "支线：血月岛的秘密（The Secrets of Bloodmoon Island）"
+                    },
+                    {
+                      "label": "支线：德鲁伊（The Druid）"
+                    },
+                    {
+                      "label": "支线：被遗忘者与被诅咒者（The Forgotten and the Damned）"
+                    },
+                    {
+                      "label": "支线：宁静者（The Silent One）"
+                    },
+                    {
+                      "label": "支线：受苦者（Bound By Pain）"
+                    },
+                    {
+                      "label": "支线：勇士的错觉（The Delusion of Grandeur）"
+                    },
+                    {
+                      "label": "支线：医生的建议（The Doctor's Order）.上篇"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "第三章：无名岛",
+              "children": [
+                {
+                  "label": "章节简介"
+                },
+                {
+                  "label": "章节探索 无名岛"
+                },
+                {
+                  "label": "主线：神学院（The Academy）"
+                },
+                {
+                  "label": "主线：王者竞技场（Arena of One）"
+                },
+                {
+                  "label": "支线：自由之钥（The Key to Freedom）"
+                },
+                {
+                  "label": "支线：无名岛（The Nameless Island）"
+                },
+                {
+                  "label": "支线：侵略者（Invaders）"
+                },
+                {
+                  "label": "支线：熟悉的脸孔（A Familiar Face）"
+                },
+                {
+                  "label": "支线：母亲树（The Mother Tree）"
+                },
+                {
+                  "label": "支线：淹没的神庙（The Drown Temple）"
+                },
+                {
+                  "label": "支线：一个不太熟悉的主顾（An Unlikely Patron）"
+                },
+                {
+                  "label": "支线：寻机报仇（Seeking Revenge）"
+                },
+                {
+                  "label": "支线：瘦黄的男人（The Sallow man）"
+                },
+                {
+                  "label": "支线：薄情寡义（Thinning the Herd）"
+                },
+                {
+                  "label": "支线：冲上云霄（Up in the Clouds）"
+                },
+                {
+                  "label": "支线：看守者的怜悯（The Watcher's Mercy）"
+                },
+                {
+                  "label": "支线：像钟表一样奔跑（Running Like Clockwork）"
+                },
+                {
+                  "label": "支线：试炼场（Proving Ground）"
+                },
+                {
+                  "label": "支线：没有学者风度的追赶（Unscholarly Pursuit）"
+                }
+              ]
+            },
+            {
+              "label": "第四章：阿克斯",
+              "children": [
+                {
+                  "label": "章节简介 阿克斯"
+                },
+                {
+                  "label": "章节探索 阿克斯"
+                },
+                {
+                  "label": "主线：大锤的陨落（Hammerfall）"
+                },
+                {
+                  "label": "支线：城门之战（Battle at the Gates）"
+                },
+                {
+                  "label": "支线：死刑（The Execution）"
+                },
+                {
+                  "label": "支线：一个工艺人的美梦与噩梦（A Craftsman of Dreams and Nightmares）"
+                },
+                {
+                  "label": "支线：紧急事件（A Most Urgent Matter）"
+                },
+                {
+                  "label": "支线：寻找阿胡大人（Finding Lord Arhu）"
+                },
+                {
+                  "label": "支线：矮人的秘密（The Secrets of the Dwarves）"
+                },
+                {
+                  "label": "支线：失踪的囚犯（The Missing Prisoners）"
+                },
+                {
+                  "label": "支线：染血的嫁妆（Blood Dowry）"
+                },
+                {
+                  "label": "支线：最后一名魔导师（The Last Stand of the Magisters）"
+                },
+                {
+                  "label": "支线：怜悯就是力量（Mercy is Power）"
+                },
+                {
+                  "label": "支线：曾经的错误（Past Mistakes）"
+                },
+                {
+                  "label": "支线：放假了（School's Out）"
+                },
+                {
+                  "label": "支线：大惊小怪的过往（What a Fuss to Have Wrought）"
+                },
+                {
+                  "label": "支线：博学者（The Loremaster）"
+                },
+                {
+                  "label": "支线：林德·凯姆藏宝室（The Vault of Linder Kemm）"
+                },
+                {
+                  "label": "支线：越老越值钱（Old Means Gold）"
+                },
+                {
+                  "label": "支线：医生的建议（Doctor's Order）.下篇"
+                },
+                {
+                  "label": "支线：重生的国王（A King Reborn）"
+                },
+                {
+                  "label": "支线：议事厅（The Consulate）"
+                }
+              ]
+            },
+            {
+              "label": "第五章：终结时刻",
+              "children": [
+                {
+                  "label": "章节简介"
+                },
+                {
+                  "label": "主线：终结时刻（End Times）"
+                }
+              ]
+            },
+            {
+              "label": "大结局",
+              "children": [
+                {
+                  "label": "结局1. 平分神权"
+                },
+                {
+                  "label": "结局2. 放弃神性"
+                },
+                {
+                  "label": "结局3. 一统神界"
+                },
+                {
+                  "label": "结局4. 众生平等"
+                },
+                {
+                  "label": "结局5. 禁用源力"
+                },
+                {
+                  "label": "结局6. 延续永恒"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "同伴任务篇",
+          "children": [
+            {
+              "label": "塞碧莉"
+            },
+            {
+              "label": "伊凡·本美兹"
+            },
+            {
+              "label": "洛许"
+            },
+            {
+              "label": "腥红王子"
+            },
+            {
+              "label": "野兽"
+            },
+            {
+              "label": "费恩"
+            }
+          ]
+        },
+        {
+          "label": "语言环境大全（劝说指导）",
+          "children": [
+            {
+              "label": "劝说的工作原理及其算法"
+            },
+            {
+              "label": "前言：风平浪静号",
+              "children": [
+                {
+                  "label": "peace wind"
+                }
+              ]
+            },
+            {
+              "label": "第一章：欢乐堡",
+              "children": [
+                {
+                  "label": "逃出欢乐堡之前，以及监狱区域"
+                },
+                {
+                  "label": "空洞沼泽区域"
+                },
+                {
+                  "label": "阿玛蒂亚避难所"
+                }
+              ]
+            },
+            {
+              "label": "间场：复仇女神号",
+              "children": [
+                {
+                  "label": "打败亚历山大，逃出欢乐堡"
+                }
+              ]
+            },
+            {
+              "label": "第二章：死神海岸",
+              "children": [
+                {
+                  "label": "浮木城广场及其码头等区域"
+                },
+                {
+                  "label": "浮木城酒馆第一层和上层"
+                },
+                {
+                  "label": "浮木城酒馆下层"
+                },
+                {
+                  "label": "浮木城田野及战场区域"
+                },
+                {
+                  "label": "死神海滩及其海湾区域"
+                },
+                {
+                  "label": "失事洞穴"
+                },
+                {
+                  "label": "郊外"
+                },
+                {
+                  "label": "回廊树林区域"
+                },
+                {
+                  "label": "石墓花园，墓地区域"
+                },
+                {
+                  "label": "黑坑洞"
+                },
+                {
+                  "label": "锯木厂和精灵营地"
+                },
+                {
+                  "label": "血月岛"
+                }
+              ]
+            },
+            {
+              "label": "第三章：无名岛",
+              "children": [
+                {
+                  "label": "无名岛神庙内，神庙外，岛屿部分，精灵营地部分"
+                },
+                {
+                  "label": "进入神学院（劝服同伴继续支持自己）"
+                },
+                {
+                  "label": "神学院内部"
+                }
+              ]
+            },
+            {
+              "label": "第四章：阿克斯",
+              "children": [
+                {
+                  "label": "广场，学校及其周边区域"
+                },
+                {
+                  "label": "兵营区域"
+                },
+                {
+                  "label": "矮人富商与矮人贵族豪宅"
+                },
+                {
+                  "label": "监狱"
+                },
+                {
+                  "label": "下水道"
+                },
+                {
+                  "label": "大教堂"
+                },
+                {
+                  "label": "林德·凯姆藏宝室"
+                },
+                {
+                  "label": "蜥蜴国，理事会，恐惧之眠"
+                },
+                {
+                  "label": "医生的黑暗住宅"
+                },
+                {
+                  "label": "鲜血之路，卢西安之墓"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "增益和减益效果（buff ; debuff）",
+          "children": [
+            {
+              "label": "增益效果"
+            },
+            {
+              "label": "减益效果"
+            }
+          ]
+        },
+        {
+          "label": "总评",
+          "children": [
+            {
+              "label": "总评"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
