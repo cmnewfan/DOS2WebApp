@@ -52,7 +52,6 @@ export default {
 }
 </script>
 <style lang="stylus" scoped>
-@import '../../common/stylus/mixin.styl';
 .page {
     overflow: hidden;
     height: 100%;
