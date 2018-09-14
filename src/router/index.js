@@ -8,13 +8,13 @@ Vue.use(Router)
 export default new Router({
   routes: [
     { //这里要设置一个默认的主页面 后面才起作用 /代表根目录
-      path: '/#',
+      path: '/',
       name: 'index',
       component: resolve => require(['@/pages/index/index'], resolve),
-      redirect: '/#/index/page1'
+      redirect: '/index/page1'
     },
     { 
-      path: '/#/index',
+      path: '/index',
       component: resolve => require(['@/pages/index/index'], resolve),
       meta: {keepAlive: true},
       children: [
@@ -59,40 +59,40 @@ export default new Router({
       ]
     },
     {
-      path: '/#/brandsale',
+      path: '/brandsale',
       name: 'brandSale', 
       component: resolve => require(['@/pages/brandsale/index'], resolve)
     },
     {
-      path: '/#/livecommunity',
+      path: '/livecommunity',
       name: 'liveCommunity',
       component:  resolve => require(['@/pages/livecommunity/index'], resolve)
     },
     {
-      path: '/#/shopcart',
+      path: '/shopcart',
       name: 'shopCart',
       component:  resolve => require(['@/pages/shopCart/index'], resolve)
     },
     {
-      path: '/#/myself',
+      path: '/myself',
       name: 'mySelf',
       component: resolve => require(['@/pages/mySelf/index'], resolve)
     },
     {
-      path: "/#/setter",
+      path: "/setter",
       name: 'setter',
       component:  resolve => require(['@/pages/mySelf/setter'], resolve)
     },
     {
-      path: '/#/login',
+      path: '/login',
       name: 'login',
       component:  resolve => require(['@/pages/mySelf/login'], resolve)
     },
     {
-      path: '/#/product',
+      path: '/product',
       name: 'product',
       component:  resolve => require(['@/pages/product/index'], resolve),
-      redirect: '/#/product/info', 
+      redirect: '/product/info', 
       children: [
         {
           path: 'info',
