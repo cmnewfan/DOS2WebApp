@@ -11,7 +11,7 @@ export default new Router({
       path: '/#',
       name: 'index',
       component: resolve => require(['@/pages/index/index'], resolve),
-      redirect: '/index/page1'
+      redirect: '/#/index/page1'
     },
     { 
       path: '/#/index',
@@ -92,7 +92,7 @@ export default new Router({
       path: '/#/product',
       name: 'product',
       component:  resolve => require(['@/pages/product/index'], resolve),
-      redirect: '/product/info', 
+      redirect: '/#/product/info', 
       children: [
         {
           path: 'info',
