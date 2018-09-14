@@ -23,6 +23,9 @@ export default {
   computed: {
     isTab () {
       return this.$store.state.tabHidden
+    },
+    selectedTab(){
+      
     }
   },
   watch: {
@@ -30,6 +33,7 @@ export default {
       if(!this.$store.state.tabHidden) {
         this.$store.dispatch('tabHidden')
       }
+      
     }
   }
 

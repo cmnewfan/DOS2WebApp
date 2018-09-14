@@ -1,10 +1,10 @@
 <template lang="html">
   <div class="footer">
     <mt-tabbar v-model="selected" fixed class="border-1px-top">
-      <mt-tab-item id="首页" >
+      <mt-tab-item id="Category" >
         <img :src="img1" slot="icon">目录
       </mt-tab-item>
-      <mt-tab-item id="分类" to="/brandSale">
+      <mt-tab-item id="Content" to="/brandSale">
         <img :src="img2" slot="icon">正文
       </mt-tab-item>
       <mt-tab-item id="收藏" >
@@ -40,14 +40,14 @@ export default {
     // 固定的书写 ""双引号里面是要监听的数据 handler是处理数据改变的函数 deep是否深度监听
     "selected": {
       handler (val,oldval) { //多看文档 handler
-        if (this.selected == "首页") {
+        if (this.selected == "Category") {
           this.$router.push('/')
           this.img1="static/icon/indexchoose.png"
         } else {
           this.img1="static/icon/index.png"
         }
-        if (this.selected == "名品特卖") {
-          this.$router.push('/brandsale')
+        if (this.selected == "Content") {
+          this.$router.push('/index/page2')
           this.img2="static/icon/brandchoose.png"
         } else {
           this.img2="static/icon/brand.png"

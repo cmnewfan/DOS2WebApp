@@ -76,7 +76,10 @@ export default {
       })
     },
     handleNodeClick(data) {
-      this.typeScroll.refersh()
+      if(data.id===1)
+      {
+        this.$router.push('/index/page2')
+      }
     }
   }
 }

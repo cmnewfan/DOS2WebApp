@@ -45,9 +45,7 @@ export default {
       transitionName: 'slide-right',
       chooseItem: 0,
       searchVisible: false,
-      leftVisible: false,
-      lefts: ["我的订单","现金券","二维码","宝箱"],
-      hots: ["颜值贷","口红","面膜","洗面奶","防晒喷雾","香水","眼影","眉笔","遮瑕","粉饼","精华","补水"]
+      leftVisible: false
     }
   },
   components: {
