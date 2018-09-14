@@ -102,9 +102,7 @@ export default {
       } else {
         this.$router.push('/index/' + "page6")
       }
-      
     } 
-
   }
 }
 </script>

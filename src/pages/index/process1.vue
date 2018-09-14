@@ -1,7 +1,6 @@
-<template lang="html">
-  <div class="page">
-    <div class="content" ref="popWrapper">
-      <p class=rvps1><a name="process1"></a>
+<template>
+    <div class="page">
+        <p class=rvps1><a name="process1"></a>
         <p><span class=rvts9>前言：</span></p>
         <p class=rvps2><img width=450 height=626 alt="" hspace=1 vspace=1 src="../../assets/pic1/abcamber3.jpg"><span class=rvts10></span>
             <br><span class=rvts11>前言：</span>
@@ -24,98 +23,63 @@
         <p><br></p>
         <p><br></p>
     </div>
-  </div>
 </template>
-
 <script>
-import BScroll from 'better-scroll'
-export default {
-  data () {
-    return {
-      url: ""
-    }
-  },
-  methods: {
-    _initScroll () {
-      this.popScroll = new BScroll(this.$refs.popWrapper, {
-        click: true,
-        probeType: 3
-      })
-    }
-  },
-  created () {
-    this.url = "../../../static/contents/content.html"
-    this.$nextTick(() => {
-      this._initScroll()
-    })
-  }
-}
+export default {};
 </script>
+<style lang="stylus" scoped>
+@import '../../common/stylus/mixin.styl';
 
-<style lang="stylus" type="stylesheet/stylus" scoped>
-@import '../../common/stylus/mixin.styl'
-.page 
-  overflow hidden
-  height 100%
-  position absolute
-  left 0
-  right 0
-  .content
-    margin-top -0.1rem
-    margin-bottom .5rem
-    height 14rem
-    .list-items
-      font-size .5rem
-      border-line()
-      .metra-list-one
-        margin-top .1rem
-        overflow hidden
-        padding-bottom .5rem
-        padding-left .2rem
-        span
-          width 45%
-          height 2.1rem
-          display inline-block
-          float left
-          padding 0rem 0.2rem
-          img
-            width 100%
-      .metra-list-two
-        overflow hidden
-        li
-          float left
-          width 2.5rem
-          height 2.5rem
-          img 
-            width 100%
-      .items-title
-        width 100%
-        text-align center
-        height 1.3rem
-        line-height 1.3rem
-        margin-left .1rem
-        font-size .48rem
-        .head_bg
-          width .826rem
-          height 2.133rem
-          position relative
-          right .1rem
-          img
-           width 4%
-    .item-list
-      background #ffffff
-      height 5rem
-      &:last-child
-        padding-bottom 2rem
-      .pop-image
-        width 100%
-        position relative
-        img
-          width 100%
-        img[lazy=loading]
-          display block
-          width  100%
-          height 5rem
-          background #000
-          margin auto
+.page {
+    overflow: hidden;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    right: 0;
+
+    .rvps1 {
+        text-align: center;
+    }
+
+    .rvps2 {
+        text-align: justify;
+    }
+
+    .rvts9 {
+        font-size: 18pt;
+        font-family: '宋体';
+        font-weight: bold;
+        color: #ff0000;
+    }
+
+    .rvts10 {
+        font-size: 14pt;
+        font-family: 'Times New Roman', 'Times', serif;
+        color: #000000;
+    }
+
+    .rvts11 {
+        font-size: 14pt;
+        font-family: '楷体';
+        font-weight: bold;
+    }
+
+    .rvts12 {
+        font-size: 14pt;
+        font-family: '楷体';
+        font-weight: bold;
+        color: #4169e1;
+        text-decoration: underline;
+    }
+
+    .rvts13 {
+        font-size: 14pt;
+        font-family: 'Times New Roman', 'Times', serif;
+        font-weight: bold;
+        color: #444444;
+    }
+}
 </style>
+
+
+
