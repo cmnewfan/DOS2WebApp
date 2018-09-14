@@ -6,6 +6,7 @@ import Router from 'vue-router'
 Vue.use(Router)
 
 export default new Router({
+  base: '/dist/',
   routes: [
     { //这里要设置一个默认的主页面 后面才起作用 /代表根目录
       path: '/',
