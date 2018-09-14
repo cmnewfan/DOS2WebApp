@@ -1,8 +1,8 @@
 {
-  "name": "vue-jumei-app",
+  "name": "vue-dos2-app",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "wuyuanlijie <wuyuanlijie@qq.com>",
+  "author": "ljl <906344660@qq.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
